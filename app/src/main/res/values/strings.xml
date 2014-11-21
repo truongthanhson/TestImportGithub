@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TestImportGithub</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="myname">SON.TT</string>
     <string name="action_settings">Settings</string>
 
 </resources>
